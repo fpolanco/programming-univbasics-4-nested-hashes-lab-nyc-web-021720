@@ -16,7 +16,7 @@ def hopper
         # }
 
      }
-    puts {:grace_hopper => true}
+    puts {:grace_hopper}
 
 end
 
